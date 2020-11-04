@@ -1,6 +1,6 @@
 # Generative Adversarial Networks for Computed-Tomography scans
 
-![experiment.png](/home/christopher/Documents/github/Generative-adversarial-networks-for-Computed-Tomography-scans/experiment.png)	
+![experiment.png](experiment.png)	
 
 
 
